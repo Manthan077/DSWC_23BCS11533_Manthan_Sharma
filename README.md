@@ -1,8 +1,10 @@
-Domain Summer Winning Camp (DSWC)
+# Domain Summer Winning Camp (DSWC)
 
-Name - Manthan Sharma
-UID- 23BCS11533
-Section - 23BCS_FS_601-B
+- **Name:** Manthan Sharma
+- **UID:** 23BCS11533
+- **Section:** 23BCS_FS_601-B
+
+---
 
 
 # Day 1
